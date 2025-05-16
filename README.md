@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-👉 [Visit Website](https://dibyadyutidas.github.io/portfolio/)
+👉 [Visit Website](https://dibyadyuti.me)
 
 ## 📌 Features
 
